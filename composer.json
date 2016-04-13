@@ -1,0 +1,20 @@
+{
+    "name": "loopsframework/extra",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
+    "require": {
+        "loopsframework/base": "0.1.0"
+    },
+    "suggest": {
+        "mikehaertl/phpwkhtmltopdf": "HTML to PDF creation using wkhtmltopdf. (service: pdf)",
+        "swiftmailer/swiftmailer": "Email sending with swiftmailer. (service: email)"
+    },
+    "authors": [
+        {
+            "name": "Lukas",
+            "email": "lukas@loopsframwork.com"
+        }
+    ]
+}
