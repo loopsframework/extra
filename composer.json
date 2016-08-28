@@ -5,7 +5,7 @@
         "psr-4": { "": "src/" }
     },
     "require": {
-        "loopsframework/base": "0.1.0"
+        "loopsframework/base": "dev-master"
     },
     "suggest": {
         "mikehaertl/phpwkhtmltopdf": "HTML to PDF creation using wkhtmltopdf. (service: pdf)",
